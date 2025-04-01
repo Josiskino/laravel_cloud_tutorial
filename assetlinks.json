@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.eaddress.dafko",
+        "sha256_cert_fingerprints":
+          ["82:4F:02:D8:41:10:B3:B1:88:C6:F2:4B:65:80:1A:55:6D:1A:24:BA:47:D3:79:0F:9A:4F:F0:32:86:8D:E8:0A"]
+      }
+    }
+  ]
